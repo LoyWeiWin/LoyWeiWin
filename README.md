@@ -7,23 +7,15 @@ I'm a [robotics researcher](https://loyweiwin.github.io/RoboticPortfolio/) and B
 ---
 
 ### 🛠️ Languages and Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+<img src="https://github.com/LoyWeiWin/LoyWeiWin/blob/main/Icon/Arduino_icon.svg" alt="Arduino SVG" width="30">
+<img src="https://github.com/LoyWeiWin/LoyWeiWin/blob/main/Icon/CSharp_icon.svg" alt="CSharp SVG" width="30">
+<img src="https://github.com/LoyWeiWin/LoyWeiWin/blob/main/Icon/Git_icon.svg" alt="Git SVG" width="30">
+<img src="https://github.com/LoyWeiWin/LoyWeiWin/blob/main/Icon/Github_icon.svg" alt="Github SVG" width="30">
+<img src="https://github.com/LoyWeiWin/LoyWeiWin/blob/main/Icon/Grasshopper_icon.svg" alt="Grasshopper SVG" width="30">
+<img src="https://github.com/LoyWeiWin/LoyWeiWin/blob/main/Icon/MicrosoftHololens_icon.svg" alt="MicrosoftHololens2 SVG" width="30">
+<img src="https://github.com/LoyWeiWin/LoyWeiWin/blob/main/Icon/Python_icon.svg" alt="Python SVG" width="30">
+<img src="https://github.com/LoyWeiWin/LoyWeiWin/blob/main/Icon/Rhino_icon.svg" alt="Rhino SVG" width="30">
+<img src="https://github.com/LoyWeiWin/LoyWeiWin/blob/main/Icon/UR_icon.svg" alt="UR SVG" width="30">
 
 ---
 
