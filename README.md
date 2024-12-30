@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-I'm a ![robotics researcher](https://loyweiwin.github.io/RoboticPortfolio/) and BIM enthusiast, passionate about shaping my vision of the digital world one step at a time. My coding projects are crafted from the ground up, encompassing everything from meticulous planning and design to addressing real-world challenges through innovative solutions.
+I'm a [robotics researcher](https://loyweiwin.github.io/RoboticPortfolio/) and BIM enthusiast, passionate about shaping my vision of the digital world one step at a time. My coding projects are crafted from the ground up, encompassing everything from meticulous planning and design to addressing real-world challenges through innovative solutions.
 
 ---
 
