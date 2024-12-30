@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-I'm a robotics researcher and BIM enthusiast, passionate about shaping my vision of the digital world one step at a time. My coding projects are crafted from the ground up, encompassing everything from meticulous planning and design to addressing real-world challenges through innovative solutions.
+I'm a ![robotics researcher](https://loyweiwin.github.io/RoboticPortfolio/) and BIM enthusiast, passionate about shaping my vision of the digital world one step at a time. My coding projects are crafted from the ground up, encompassing everything from meticulous planning and design to addressing real-world challenges through innovative solutions.
 
 ---
 
@@ -28,7 +28,5 @@ I'm a robotics researcher and BIM enthusiast, passionate about shaping my vision
 ---
 
 ### 📊 Stats
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=loyweiwin\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
-[website]: https://loyweiwin.github.io/RoboticPortfolio/
-
+![Loy's GitHub stats](https://github-readme-stats.vercel.app/api/?username=loyweiwin\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
