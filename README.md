@@ -26,4 +26,5 @@ I'm a [robotics researcher](https://loyweiwin.github.io/RoboticPortfolio/) and B
 
 ### 2026 Goals
 [ ] Grasshopper-EnvironmentalStudyDesign
+
 [ ] Dynamo-Script-ProjectManagement
