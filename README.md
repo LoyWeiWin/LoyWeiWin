@@ -21,3 +21,8 @@ I'm a [robotics researcher](https://loyweiwin.github.io/RoboticPortfolio/) and B
 ### 📊 Stats
 
 ![Loy's GitHub stats](https://github-readme-stats.vercel.app/api/?username=loyweiwin\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+
+---
+
+### 2025 Goals
+[] Grasshopper-EnvironmentalStudyDesign
