@@ -24,7 +24,7 @@ This roadmap outlines the planned updates and milestones for 2025, along with th
 
 | Quarter   | Goals and Updates                                                                                         | Status           |
 |-----------|----------------------------------------------------------------------------------------------------------|------------------|
-| **Q1**    | <ul><li>[x] 3D Scanning.</li><li>[x] Arduino.</li><li>[x] Grasshopper-UR_RoboticSketching.</li><li>[ ] Grasshopper-UR_RoboticMetalSheetForming.</li><li>[x] Grasshopper-UR_RoboticMetalPolishing.</li><li>[ ] Grasshopper-UR_RoboticMetalCutting.</li></ul> | 🚧 In Progress   |
+| **Q1**    | <ul><li>[x] 3D Scanning.</li><li>[x] Arduino.</li><li>[x] Grasshopper-UR_RoboticSketching.</li><li>[ ] Grasshopper-UR_RoboticMetalSheetForming.</li><li>[x] Grasshopper-UR_RoboticMetalPolishing.</li><li>[ ] Grasshopper-UR_RoboticCarving.</li></ul> | 🚧 In Progress   |
 | **Q2**    | <ul><li>[ ] Grasshopper_UR_RobotAssistedThermoforming.</li><li>[ ] Grasshopper_UR_RobotAssistedPick&Place. | 🚧 In Progress   |
 | **Q3**    | - Grasshopper-HumanRobotInteraction-PuppyDog.<br> - Grasshopper-HumanRobotInteraction-3DSpatialCarving.<br>- Grasshopper-HumanRobotInteraction-3DSpatialLightScuplture. | ⏳ Planned       | 
 | **Q4**    | - Grasshopper-HRI_RobotAssistedMetalWelding.<br>- Grasshopper-HRI_RoboticCameraCrew. | ⏳ Planned       | 
