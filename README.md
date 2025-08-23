@@ -5,7 +5,6 @@
 I'm an [interaction design and robotics researcher](https://loyweiwin.github.io/RoboticPortfolio/) passionate about shaping how humans engage with machines in digital-physical workflows. My work spans prototyping tools, robotic systems, and interaction frameworks, with a focus on making human-robot collaboration more legible, intuitive, and responsive.
 
 
-
 ---
 
 ### 🛠️ Languages and Tools
@@ -32,6 +31,3 @@ This roadmap outlines the planned updates and milestones for 2025, along with th
 | **Q4**    | - Grasshopper-HRI_RobotAssistedMetalWelding.<br>- Grasshopper-HRI_RoboticCameraCrew. | ⏳ Planned       | 
 ---
 
-### 2026 Goals
-- [ ] Grasshopper-EnvironmentalStudyDesign  
-- [ ] Dynamo-Script-ProjectManagement
